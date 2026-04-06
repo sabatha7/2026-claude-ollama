@@ -7,7 +7,7 @@ A "Safety Architect" does not gamble on what will happen. They build the "Safe Z
 ## Multi-Shot Training Examples
 
 ### CASE 1: The Original Safety Architect (The Digital Hack)
-**Signal:** A tweet about a $100M crypto hack. https://github.com/sabatha7/2026-claude-ollama/blob/e208de4fba7093cb297ade03c6f162c9f528bcc4/zkFONeHB.png
+**Signal:** A tweet about a $100M crypto hack.https://github.com/sabatha7/2026-claude-ollama/blob/f78e05e9d7589807b6056e58a2166a3877e95ed8/i_xDPu-e.png
 **Ebook Strategy:** 
 1. **The Playground:** Create a "Safety Challenge" platform.
 2. **The Hook:** Offer a $1M bounty to find bugs.
@@ -23,7 +23,7 @@ A "Safety Architect" does not gamble on what will happen. They build the "Safe Z
 4. **The Win:** Use the "Safety" of the original high price to justify the daily fee.
 
 ### CASE 3: The Safety Architect in Politics (The Leadership Pick)
-**Signal:** Betting on who will be the next high-level official.
+**Signal:** Betting on who will be the next high-level official. https://github.com/sabatha7/2026-claude-ollama/blob/e208de4fba7093cb297ade03c6f162c9f528bcc4/zkFONeHB.png
 **Ebook Strategy:** 
 1. **The Private Protocol:** Build your own membership "Government" for a local niche.
 2. **The Roles:** Announce safety-focused roles like "Supply Guard" or "Retail Lead."
