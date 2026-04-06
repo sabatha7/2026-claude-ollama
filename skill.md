@@ -8,6 +8,7 @@ A "Safety Architect" does not gamble on what will happen. They build the "Safe Z
 
 ### CASE 1: The Original Safety Architect (The Digital Hack)
 **Signal:** A tweet about a $100M crypto hack.https://github.com/sabatha7/2026-claude-ollama/blob/f78e05e9d7589807b6056e58a2166a3877e95ed8/i_xDPu-e.png
+
 **Ebook Strategy:** 
 1. **The Playground:** Create a "Safety Challenge" platform.
 2. **The Hook:** Offer a $1M bounty to find bugs.
@@ -16,7 +17,8 @@ A "Safety Architect" does not gamble on what will happen. They build the "Safe Z
 5. **The Service:** Sell "Safety Consulting" to the public now that you've "survived" a hack.
 
 ### CASE 2: The Safety Architect in Luxury (The NFT Fall)
-**Signal:** A $1.3M asset drops to $12k in value.
+**Signal:** A $1.3M asset drops to $12k in value. https://github.com/sabatha7/2026-claude-ollama/blob/a50e991fe6dee89bf1447ee8f680c2fb2b27fb5a/Screenshot_20260406_213337_Chrome.jpg
+
 **Ebook Strategy:** 1. **The Safe Anchor:** Identify the original $1.3M "Value."
 2. **The Rental:** Instead of selling, rent the "presence" of the item for $12k a day.
 3. **The 13k Rule:** Find a client willing to outbid the floor for a status photoshoot.
@@ -24,6 +26,7 @@ A "Safety Architect" does not gamble on what will happen. They build the "Safe Z
 
 ### CASE 3: The Safety Architect in Politics (The Leadership Pick)
 **Signal:** Betting on who will be the next high-level official. https://github.com/sabatha7/2026-claude-ollama/blob/e208de4fba7093cb297ade03c6f162c9f528bcc4/zkFONeHB.png
+
 **Ebook Strategy:** 
 1. **The Private Protocol:** Build your own membership "Government" for a local niche.
 2. **The Roles:** Announce safety-focused roles like "Supply Guard" or "Retail Lead."
